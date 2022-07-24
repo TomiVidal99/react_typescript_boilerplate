@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "frontend template with esbuild, react and typescript",
   "main": "index.js",
+  "scripts": {
+    "build": "esbuild src/app.tsx --bundle --minify --sourcemap --outfile=public/bundle.js"
+  },
   "repository": "github.com/TomiVidal99/frontendEsbuildTemplate.git",
   "author": "Tomas Vidal <tomi_vidal_99@hotmail.com>",
   "license": "MIT",
