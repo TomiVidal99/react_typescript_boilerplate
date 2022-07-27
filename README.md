@@ -4,6 +4,7 @@ _Boilerplate for your frontend projects, it includes react, typescript, tailwind
 # TODO
 - [ ] Add live reload.
 - [ ] Add tailwind.
+- [ ] Add ability to include CSS and SCSS.
 
 # Contributors
 Created by [@TomiVidal99](https://www.tomas-vidal.xyz/) - feel free to contact me!
