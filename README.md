@@ -2,6 +2,8 @@
 _Boilerplate for your frontend projects, it includes react, typescript, tailwind and esbuild_
 
 # TODO
+- [ ] Define clean architechture and add reference to it.
+- [ ] Handle routes.
 - [ ] Add live reload.
 - [ ] Add tailwind.
 
